@@ -1,7 +1,7 @@
 /**      @file: Trabalho 3 - implementação de arquivos
  *     @author: Guilherme N. Ramos (gnramos@unb.br)
  *	 @Aluna   : Priscila Andrade da Silva
- *	@Matricula: 160141931
+ *	@Matricula: 
  * @disciplina: Algoritmos e Programação de Computadores
  */
 
